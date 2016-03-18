@@ -1,4 +1,4 @@
-Slides for AMBER16 meetin (March 2016)
+Slides for AMBER16 meeting (March 2016)
 
 Note: monolayer.xtc and monolayer.pdb were taken from mdtraj package
 
