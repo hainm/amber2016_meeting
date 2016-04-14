@@ -2,7 +2,7 @@
 
     jupyter notebook amber2016_update_HaiNguyen.ipynb
 
-2. View static file: Open amber2016_update_HaiNguyen.html in web browser
+2. View [static HTML file](http://amber-md.github.io/pytraj/latest/presentations/amber2016.html)
 
 3. Note: monolayer.xtc and monolayer.pdb were taken from mdtraj package
 
