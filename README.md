@@ -3,7 +3,7 @@
 ```bash
     $ jupyter notebook amber2016_update_HaiNguyen.ipynb
 ```
-2. View [static HTML file](http://amber-md.github.io/pytraj/latest/presentations/amber2016.html)
+2. View [static HTML file](http://hainm.github.io/amber2016_meeting/index.html)
 
 3. Note: `monolayer.xtc` and `monolayer.pdb` were taken from mdtraj package
 
